@@ -38,8 +38,7 @@ describe("First test", () => {
     })
 
     test("Returns an 400 error because there are repeated data", async() => {
-        let user = 
-            {
+        let user = {
             name: "Andrés",
             username: "@andres_2022",
             email: "andres@gmail.com",
@@ -52,8 +51,7 @@ describe("First test", () => {
     })
 
     test("should return an error if data is missing properties", async() => {
-        let user = 
-        {
+        let user = {
             name: "Andrés",
             username: "@andres_2022",
             email: "andres@gmail.com"
