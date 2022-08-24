@@ -1,4 +1,7 @@
-TEST_RUNNER/node_modules/
-TEST_RUNNER/node_modules
-TEST_RUNNER/.gitignore
-TEST_RUNNER/.env
+'TEST_RUNNER/node_modules/'
+'TEST_RUNNER/.gitignore'
+'TEST_RUNNER/.env'
+'node_modules/'
+'node_modules'
+'.gitignore'
+'.env'
